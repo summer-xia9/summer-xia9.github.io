@@ -1,49 +1,52 @@
 ---
 # Display name
-title: 夏佳乐 Jiale Xia 
+title: 肖亮 Liang Xiao 
 
 # Full name (for SEO)
-first_name: Jiale
-last_name: Xia
+first_name: Liang
+last_name: Xiao
 
 # Username (this should match the folder name)
 authors:
-  - 夏佳乐
+  - 肖亮
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 副教授，硕士生导师 
+role: 教授，博士生导师 
 
 # Organizations/Affiliations
 organizations:
-  - name: 武汉理工大学 Wuhan University of Technology
+  - name: 武汉理工大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include high-energy Secondary Batteries, advanced electrolytes and conversion-type cathode materials.
 
 interests:
-  - 高比能二次电池
-  - 新型电解液、电解质
-  - 转换型正极材料
+  - 化学电源
+  - 材料电化学
 
 education:
   courses:
-    - course: 材料科学与工程 工学博士
-      institution: 西安交通大学
-      year: 2015-2022
-    - course: 化学工程与工艺 工学学士
-      institution: 西安交通大学
-      year: 2011-2015
+    - course: 物理化学 理学博士
+      institution: 武汉大学
+      year: 2000.09-2006.06
+    - course: 化学 理学学士
+      institution: 武汉大学
+      year: 1996.09-2000.06
 
 Work Experience:
   courses:
+    - institution: 武汉理工大学 教授
+      year: 2016.10-今
+    - institution: 美国西北太平洋国家实验室 访问学者
+      year: 2013.08-2014.08
     - institution: 武汉理工大学 副教授
-      year: 2023-今
-    - institution: 马里兰大学-帕克分校 访问学者
-      year: 2019-2022
+      year: 2008.10-2016.09  
+    - institution: 武汉理工大学 讲师
+      year: 2006.07-2008.09  
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -52,7 +55,7 @@ Work Experience:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'jialexia@whut.edu.cn'
+    link: 'xiaoliang@whut.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -77,4 +80,6 @@ user_groups:
   - Researchers
 ---
 
-夏佳乐，武汉理工大学副教授，硕士生导师，湖北省“楚天学者”。长期从事转换型正极材料、新型二次电池电解液设计和界面优化研究。迄今累计发表SCI论文20余篇，其中以第一作者/共同第一作者/通讯作者身份在Nature. Sustainability、 Advanced Materials、Angewandte Chemie International Edition、Advanced Functional Materials等期刊上发多篇研究论文，论文他引2200余次，H因子19。担任Journal of Energy Chemistry、Energy & Environmental Materials、Rare Metals杂志青年编委。
+    肖亮，武汉理工大学教授，博导。主要从事化学电源的关键材料和相关技术研究，包括无机固态电解质、聚合物电解质、全固态锂离子电池、锂离子电池正负极材料和电解液、可充金属锂电极、锂空气电池等。
+
+    具备化学、材料科学与工程两个博士点学术型博士生的招生资格，具备材料与化工专业型博士生的招生资格，欢迎报考，请邮件联系xiaoliang@whut.edu.cn。

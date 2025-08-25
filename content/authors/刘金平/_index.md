@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jinping Liu 刘金平
+title: 刘金平 Jinping Liu 
 
 # Full Name (for SEO)
 first_name: Jinping
@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 能源/材料电化学
+  - 二次电池（锂、钠、钾、锌等）
+  - 固态电解质
+  - 超级电容器
 
 education:
   courses:
@@ -70,6 +71,6 @@ user_groups:
   - Chair Professor
 ---
 
-刘金平教授，武汉理工大学首席教授、国家级人才、英国皇家化学学会会士（FRSC）、湖北省“杰出青年基金”获得者、科技部创新人才推进计划重点领域创新团队核心成员；在Nature子刊、材料和化学领域顶级期刊等杂志上发表SCI论文~200篇，论文他引2.6万次，H指数82，1篇论文获“中国百篇最具影响国际学术论文”；授权发明专利20余项，出版中英文专著（章节）3 部。曾获湖北省自然科学奖、科睿唯安“全球高被引科学家”、 Elsevier“中国高被引学者”（连续 11年），Nano Research新锐青年科学家奖、SCOPUS青年科学家之星和中国新锐科技人物等荣誉。现任中国储能与动力电池及其材料专业委员会委员、Energy & Environmental Materials（中科院1区）创刊副主编、Interdisciplinary Materials（中科院1区） 学术编辑及多本1区英文期刊编委。
+  刘金平教授，武汉理工大学首席教授、国家级人才、英国皇家化学学会会士（FRSC）、湖北省“杰出青年基金”获得者、科技部创新人才推进计划重点领域创新团队核心成员；在Nature子刊、材料和化学领域顶级期刊等杂志上发表SCI论文~200篇，论文他引2.6万次，H指数82，1篇论文获“中国百篇最具影响国际学术论文”；授权发明专利20余项，出版中英文专著（章节）3 部。曾获湖北省自然科学奖、科睿唯安“全球高被引科学家”、 Elsevier“中国高被引学者”（连续 11年），Nano Research新锐青年科学家奖、SCOPUS青年科学家之星和中国新锐科技人物等荣誉。现任中国储能与动力电池及其材料专业委员会委员、Energy & Environmental Materials（中科院1区）创刊副主编、Interdisciplinary Materials（中科院1区） 学术编辑及多本1区英文期刊编委。
 
 
