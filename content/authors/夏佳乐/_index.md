@@ -1,45 +1,49 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jiale Xia 夏佳乐
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jiale
+last_name: Xia
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 夏佳乐
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 副教授，硕士生导师 
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 武汉理工大学 Wuhan University of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include high-energy Secondary Batteries, advanced electrolytes and conversion-type cathode materials.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 高比能二次电池
+  - 新型电解液、电解质
+  - 转换型正极材料
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 材料科学与工程 工学博士
+      institution: 西安交通大学
+      year: 2015-2022
+    - course: 化学工程与工艺 工学学士
+      institution: 西安交通大学
+      year: 2011-2015
+
+Work Experience:
+  courses:
+    - institution: 武汉理工大学 副教授
+      year: 2023-今
+    - institution: 马里兰大学-帕克分校 访问学者
+      year: 2019-2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,7 +52,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'jialexia@whut.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
