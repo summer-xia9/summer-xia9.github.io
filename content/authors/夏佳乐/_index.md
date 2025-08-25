@@ -58,7 +58,7 @@ social:
     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=5r9AvrcAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -75,9 +75,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+夏佳乐，武汉理工大学副教授，硕士生导师，湖北省“楚天学者”。长期从事转换型正极材料、新型二次电池电解液设计和界面优化研究。迄今累计发表SCI论文20余篇，其中以第一作者/共同第一作者/通讯作者身份在Nature. Sustainability、 Advanced Materials、Angewandte Chemie International Edition、Advanced Functional Materials等期刊上发多篇研究论文，论文他引2200余次，H因子19。担任Journal of Energy Chemistry、Energy & Environmental Materials、Rare Metals杂志青年编委。
