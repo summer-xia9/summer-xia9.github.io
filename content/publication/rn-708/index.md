@@ -1,0 +1,38 @@
+---
+title: Understanding pillar chemistry in potassium-containing polyanion materials
+  for long-lasting sodium-ion batteries
+authors:
+- Wenyi Liu
+- Wenjun Cui
+- Chengjun Yi
+- Jiale Xia
+- Jinbing Shang
+- Weifei Hu
+- Zhuo Wang
+- Xiahan Sang
+- Yuanyuan Li
+- Jinping Liu
+date: '2024-01-01'
+publishDate: '2025-08-26T07:10:20.272064Z'
+publication_types:
+- article-journal
+publication: '*Nature Communications*'
+doi: 10.1038/s41467-024-54317-8
+abstract: K-containing polyanion compounds hold great potential as anodes for sodium-ion
+  batteries considering their large ion transport channels and stable open frameworks;
+  however, sodium storage behavior has rarely been studied, and the mechanism remains
+  unclear. Here, using a noninterference KTiOPO4 thin-film model, the Na+ storage
+  mechanism is comprehensively revealed by in situ/operando spectroscopy, aberration-corrected
+  electron microscopy and density functional theory calculations. We find that incomplete
+  K+/Na+ ion exchange occurs and eventually 0.15 K+ remains as a pillar to stabilize
+  the tunnel structure. The pillar effect substantially maintains the volume change
+  within 3.9%, much smaller than that of K+(Na+) insertion into KTiOPO4(NaTiOPO4)
+  (9.5%; 5%), thus enabling 10,000 cycles. The powder electrode demonstrates comparable
+  capacity and can work efficiently at commercial-level areal capacity of 2.47 mAh cm−2.
+  The quasi-solid-state pouch cell with high safety under extreme abuse also manifests
+  long-term cycling stability. This pillar chemistry will inspire alkali metal ion
+  storage in hosts containing heterogeneous cations.
+links:
+- name: URL
+  url: https://doi.org/10.1038/s41467-024-54317-8
+---
