@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Jinping Liu
-        Research Group
+        电能源化学与先进储能材料团队
       image:
         filename: welcome.jpg
       text: |
@@ -36,19 +35,6 @@ sections:
       view: card
       columns: '1'
   
-  - block: collection
-    content:
-      title: 最新研究进展
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-
   - block: markdown
     content:
       title:
@@ -68,6 +54,19 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
+  
+  - block: collection
+    content:
+      title: 最新研究进展
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: 'article'
+    design:
+      view: citation
+      columns: '1'
 
   - block: markdown
     content:
