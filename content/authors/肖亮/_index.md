@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include high-energy Secondary Batteries, advanced electrolytes and conversion-type cathode materials.
+# bio: My research interests include high-energy Secondary Batteries, advanced electrolytes and conversion-type cathode materials.
 
 interests:
   - 化学电源
@@ -80,6 +80,6 @@ user_groups:
   - Researchers
 ---
 
-    肖亮，武汉理工大学教授，博导。主要从事化学电源的关键材料和相关技术研究，包括无机固态电解质、聚合物电解质、全固态锂离子电池、锂离子电池正负极材料和电解液、可充金属锂电极、锂空气电池等。
-
-    具备化学、材料科学与工程两个博士点学术型博士生的招生资格，具备材料与化工专业型博士生的招生资格，欢迎报考，请邮件联系xiaoliang@whut.edu.cn。
+肖亮，武汉理工大学教授，博导。主要从事化学电源的关键材料和相关技术研究，包括无机固态电解质、聚合物电解质、全固态锂离子电池、锂离子电池正负极材料和电解液、可充金属锂电极、锂空气电池等。
+####具备化学、材料科学与工程两个博士点学术型博士生的招生资格，具备材料与化工专业型博士生的招生资格，欢迎报考，请邮件联系xiaoliang@whut.edu.cn。
+     

@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include high-energy Secondary Batteries, advanced electrolytes and conversion-type cathode materials.
+# bio: My research interests include high-energy Secondary Batteries, advanced electrolytes and conversion-type cathode materials.
 
 interests:
   - 高比能二次电池
