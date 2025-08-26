@@ -1,14 +1,12 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: 欢迎来到电能源化学与先进储能材料团队
+date: 2025-08-26
 ---
-
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+电能源化学与先进储能材料团队
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+&ensp;团队聚焦世界科技前沿，瞄准国家战略和企业需求，长期致力于能源电化学与储能器件的应用基础研究。研究方向包括锂/钠离子电池、水系电池、锂空电池、超级电容器等储能器件设计及新型储能电极材料、电解液/固态电解质等关键组分开发。近年来，团队成员作为负责人承担国家高层次人才项目 1 项、国家重点研发计划子课题 1 项、 国家自然科学基金项目11项、 省部级人才项目计划 3 项；并与宁德时代21C创新实验室、延长石油、贝特瑞中央研究院等多家企业建立紧密合作，进行横向课题攻关或博士后联合培养。近几年，团队指导博士、硕士和本科生在Nature Communications、Advanced Materials、Angewandte Chemie、Energy & Environmental Science等国际顶级期刊发表高水平SCI论文100余篇，并被 Science、Nature Reviews Chemistry和 Nature Energy等权威期刊引用，申请和授权发明专利40余项。
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+&ensp;团队现有教授2名，副教授2名，博士后2名，博士生10名，硕士生26名。团队负责人刘金平教授，现为武汉理工大学电能源化学学科方向负责人、国家级人才、英国皇家化学学会会士（FRSC）、湖北省“杰出青年基金”获得者、科技部创新人才推进计划重点领域创新团队核心成员；在Nature子刊、材料和化学领域顶级期刊等杂志上发表SCI论文~200篇，论文他引2.6万次，H指数82，1篇论文获“中国百篇最具影响国际学术论文”；授权发明专利20余项，出版中英文专著（章节）3 部。曾获湖北省自然科学奖、科睿唯安“全球高被引科学家”、 Elsevier“中国高被引学者”（连续 11年），Nano Research新锐青年科学家奖、SCOPUS青年科学家之星和中国新锐科技人物等荣誉。现任中国储能与动力电池及其材料专业委员会委员、Energy & Environmental Materials（中科院1区）创刊副主编、Interdisciplinary Materials（中科院1区） 学术编辑及多本1区英文期刊编委。
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
