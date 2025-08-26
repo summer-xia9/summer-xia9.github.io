@@ -20,13 +20,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+研究方向:
   - 能源/材料电化学
   - 二次电池（锂、钠、钾、锌等）
   - 固态电解质
   - 超级电容器
 
-education:
+教育背景:
   courses:
     - course: 博士
       institution: 华中师范大学
@@ -34,6 +34,8 @@ education:
     - course: 学士
       institution: 华中师范大学
       year: 2000/09-2004/06
+
+
     
 
 # Social/Academic Networking
@@ -44,15 +46,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'liujp@whut.edu.cn'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=raRba9AAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
