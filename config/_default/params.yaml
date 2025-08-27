@@ -115,5 +115,4 @@ extensions:
 
 publications:
   date_format: January 2006
-  # citation_style: apa
-  citation_style: /csl/american-chemical-society.csl
+  citation_style: /uploads/csl/american-chemical-society.csl
