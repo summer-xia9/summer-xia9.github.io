@@ -1,0 +1,12 @@
+{{/* Override citation template to use ACS CSL */}}
+{{ $csl := .Site.Params.publications.citation_style }}
+{{ if $csl }}
+  <div class="publication-citation" data-csl="{{ $csl }}">
+    {{/* 保留默认引用渲染逻辑 */}}
+    {{ .Render "citation" }}
+  </div>
+{{ else }}
+  <div class="publication-citation">
+    {{ .Render "citation" }}
+  </div>
+{{ end }}
