@@ -35,6 +35,12 @@ Education:
       institution: 华中师范大学
       year: 2000/09-2004/06
 
+work:
+  courses:
+    - course: 教授
+      institution: 武汉理工大学
+      year: 2004/09-2009/06
+
 
     
 
