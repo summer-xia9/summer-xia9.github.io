@@ -11,9 +11,9 @@ authors:
 - Yaping Du
 - Chun‐Hua Yan
 date: '2020-01-01'
-Volume: 30
-Issue: 9
-Pages: 1908367
+volume: 30
+number: 9
+pages: 1908367
 publishDate: '2025-08-26T07:10:20.406237Z'
 publication_types:
 - article-journal
