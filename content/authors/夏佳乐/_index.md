@@ -77,5 +77,5 @@ user_groups:
   - Researchers
 ---
 
-&emsp;夏佳乐，武汉理工大学副教授，硕士生导师，湖北省“楚天学者”。长期从事转换型正极材料、新型二次电池电解液设计和界面优化研究。迄今累计发表SCI论文20余篇，其中以第一作者/共同第一作者/通讯作者身份在Nature. Sustainability、 Advanced Materials、Angewandte Chemie International Edition、Advanced Functional Materials等期刊上发多篇研究论文，论文他引2200余次，H因子19。担任Journal of Energy Chemistry、Energy & Environmental Materials、Rare Metals杂志青年编委。
+&emsp;&emsp;夏佳乐，武汉理工大学副教授，硕士生导师，湖北省“楚天学者”。长期从事转换型正极材料、新型二次电池电解液设计和界面优化研究。迄今累计发表SCI论文20余篇，其中以第一作者/共同第一作者/通讯作者身份在Nature. Sustainability、 Advanced Materials、Angewandte Chemie International Edition、Advanced Functional Materials等期刊上发多篇研究论文，论文他引2200余次，H因子19。担任Journal of Energy Chemistry、Energy & Environmental Materials、Rare Metals杂志青年编委。
 

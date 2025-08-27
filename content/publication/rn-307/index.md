@@ -1,6 +1,5 @@
 ---
-title: Efficient Optimization of Electron/Oxygen Pathway by Constructing Ceria/Hydroxide
-  Interface for Highly Active Oxygen Evolution Reaction
+title: Efficient Optimization of Electron/Oxygen Pathway by Constructing Ceria/Hydroxide Interface for Highly Active Oxygen Evolution Reaction
 authors:
 - Jiale Xia
 - Hongyang Zhao
@@ -12,9 +11,9 @@ authors:
 - Yaping Du
 - Chun‐Hua Yan
 date: '2020-01-01'
-Volume: '30'
-Issue: '9'
-Pages: '1908367'
+Volume: 30
+Issue: 9
+Pages: 1908367
 publishDate: '2025-08-26T07:10:20.406237Z'
 publication_types:
 - article-journal
