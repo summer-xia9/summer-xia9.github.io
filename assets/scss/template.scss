@@ -8,21 +8,3 @@
   justify-content: center;
 }
 
-// 标题居中
-.center-text {
-  text-align: center;
-}
-
-// 页面正文宽度限制，避免横向滚动
-.page-content {
-  max-width: 800px;    // 可调整宽度
-  margin-left: auto;
-  margin-right: auto;
-}
-
-// 正文左对齐 + 首行缩进
-.page-content p {
-  text-align: left;
-  text-indent: 2em;    // 首行缩进两个中文字符
-  line-height: 1.8;    // 可选，增加行高，提高可读性
-}

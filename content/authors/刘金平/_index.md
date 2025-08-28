@@ -11,7 +11,7 @@ superuser: true
 
 # Username (this should match the folder name)
 authors:
-  - Jinping Liu
+  - 刘金平
 
 weight: 10
 

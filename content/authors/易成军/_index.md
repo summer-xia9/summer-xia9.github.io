@@ -8,7 +8,7 @@ last_name: Yi
 
 # Username (this should match the folder name)
 authors:
-  - Chengjun Yi
+  - 易成军
 
 # Is this the primary user of the site?
 superuser: false
