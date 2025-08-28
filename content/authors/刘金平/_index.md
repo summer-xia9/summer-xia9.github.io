@@ -35,7 +35,7 @@ Interests:
   - 固态电解质
   - 超级电容器
 
-work:
+education:
   courses:
     - course: 博士
       institution: 华中师范大学
