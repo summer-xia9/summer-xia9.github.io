@@ -44,7 +44,7 @@ sections:
       filters:
         folders:
           - publication
-        #publication_type: article-journal
+        publication_type: ''
     design:
       view: compact
       columns: '1'
