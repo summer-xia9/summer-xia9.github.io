@@ -119,7 +119,3 @@ publications:
 
   #citation_style: /uploads/csl/american-chemical-society.csl
 
-# Show publications on author profile pages
-show_publications: true
-publication_view: 4   # 👈 使用完整 citation 格式
-publication_count: 10
