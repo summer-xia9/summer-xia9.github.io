@@ -18,11 +18,11 @@ weight: 30
 year: 2023
 
 # Role/position
-role: 副教授，硕士生导师 
+role: 副教授，硕导，湖北省高层次人才
 
 # Organizations/Affiliations
 organizations:
-  - name: 武汉理工大学 Wuhan University of Technology
+  - name: 武汉理工大学
     url: ''
   - name: 化学化工与生命科学学院
 

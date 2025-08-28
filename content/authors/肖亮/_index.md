@@ -16,7 +16,7 @@ superuser: false
 weight: 20
 
 # Role/position
-role: 教授，博士生导师 
+role: 教授，博导 
 
 # Organizations/Affiliations
 organizations:
