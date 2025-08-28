@@ -39,10 +39,7 @@ work:
   courses:
     - course: 教授
       institution: 武汉理工大学
-      year: 2004/09-2009/06
-
-
-    
+      year: 2004/09-2009/06    
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
