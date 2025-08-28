@@ -22,6 +22,7 @@ role: 教授，博士生导师
 organizations:
   - name: 武汉理工大学
     url: ''
+  - name: 化学化工与生命科学学院
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include high-energy Secondary Batteries, advanced electrolytes and conversion-type cathode materials.

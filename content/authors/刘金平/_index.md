@@ -12,12 +12,16 @@ superuser: true
 weight: 10
 
 # Role/position
-role: 首席教授，博士生导师，国家高层次人才
+role: 
+  - name: 首席教授，博士生导师
+  - name: 国家高层次青年人才
 
 # Organizations/Affiliations
 organizations:
   - name: 武汉理工大学
     url: ''
+  - name: 化学化工与生命科学学院
+  - name: 材料复合新技术国家重点实验室
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
