@@ -8,7 +8,7 @@ last_name: Xiao
 
 # Username (this should match the folder name)
 authors:
-  - Liang Xiao
+  - 肖亮
 
 # Is this the primary user of the site?
 superuser: false

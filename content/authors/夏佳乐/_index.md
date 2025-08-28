@@ -8,7 +8,7 @@ last_name: Xia
 
 # Username (this should match the folder name)
 authors:
-  - Jiale Xia
+  - 夏佳乐
 
 # Is this the primary user of the site?
 superuser: false
