@@ -1,9 +1,8 @@
 ---
 title: 招聘启事
 date: 2025-08-28
-
-type: landing
 ---
+
 
 ## <center>研究生招生
 
