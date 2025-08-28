@@ -8,7 +8,7 @@ last_name: Liu
 
 # Username (this should match the folder name)
 authors:
-  - 刘文燚
+  - Wenyi Liu
 
 # Is this the primary user of the site?
 superuser: false

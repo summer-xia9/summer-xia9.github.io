@@ -1,14 +1,14 @@
 ---
 # Display name
-title: 易成军
+title: 柴世波
 
 # Full name (for SEO)
-first_name: Chengjun
-last_name: Yi
+first_name: Shibo
+last_name: Chai
 
 # Username (this should match the folder name)
 authors:
-  - 易成军
+  - Shibo Chai
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,7 +24,7 @@ role: 博士生
 organizations:
   - name: 武汉理工大学
     url: ''
-  - name: 化学化工与生命科学学院
+  - name: 材料科学与工程学院
 
 social:
   - icon: envelope
