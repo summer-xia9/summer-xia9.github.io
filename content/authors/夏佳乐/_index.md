@@ -85,11 +85,12 @@ user_groups:
 type: landing
 
 sections:
-  - block: biography
+  - block: markdown
     id: bio
     content:
       title: 关于我
-      text: 博士生，研究方向为固态电解质与新型二次电池。
+      text: |
+        博士生，研究方向为固态电解质与新型二次电池。
   - block: markdown
     id: pubs
     content:
@@ -104,7 +105,6 @@ sections:
       text: |
         - **博士研究生**，武汉理工大学，2019.09–至今  
         - **研究助理**，华中科技大学，2017.09–2019.07  
----
 
 ---
 
