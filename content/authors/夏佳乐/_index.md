@@ -36,10 +36,10 @@ interests:
 
 education:
   courses:
-    - course: 材料科学与工程 工学博士
+    - course: 材料科学与工程，工学博士
       institution: 西安交通大学
       year: 2015-2022
-    - course: 化学工程与工艺 工学学士
+    - course: 化学工程与工艺，工学学士
       institution: 西安交通大学
       year: 2011-2015
 
@@ -81,6 +81,30 @@ email: ''
 user_groups:
   - Researchers
 
+
+type: landing
+
+sections:
+  - block: biography
+    id: bio
+    content:
+      title: 关于我
+      text: 博士生，研究方向为固态电解质与新型二次电池。
+  - block: markdown
+    id: pubs
+    content:
+      title: Publications
+      text: |
+        1. Yi C, et al. *Advanced Functional Materials*, 30(9), 1908367 (2019).  
+        2. Yi C, et al. *Energy & Environmental Materials*, 5(7), 1234–1245 (2021).
+  - block: markdown
+    id: work
+    content:
+      title: Work Experience
+      text: |
+        - **博士研究生**，武汉理工大学，2019.09–至今  
+        - **研究助理**，华中科技大学，2017.09–2019.07  
+---
 
 ---
 
