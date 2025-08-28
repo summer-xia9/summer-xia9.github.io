@@ -37,20 +37,6 @@ social:
 user_groups:
   - Grad Students
 
-# Publications section
-widget: pages
-headless: true
-active: true
-weight: 50
-content:
-  filters:
-    author: "Chengjun Yi"
-  count: 10
-  sort_by: "date"
-  order: desc
-design:
-  view: 4   # 👈 关键，显示为完整 citation 格式
-  columns: 1
 ---
 
 
