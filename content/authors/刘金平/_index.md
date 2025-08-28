@@ -9,6 +9,10 @@ last_name: Liu
 # Is this the primary user of the site?
 superuser: true
 
+# Username (this should match the folder name)
+authors:
+  - Jinping Liu
+
 weight: 10
 
 # Role/position
