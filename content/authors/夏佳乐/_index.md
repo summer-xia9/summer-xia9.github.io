@@ -13,6 +13,10 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+weight: 30
+
+year: 2023
+
 # Role/position
 role: 副教授，硕士生导师 
 

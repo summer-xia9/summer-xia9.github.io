@@ -9,6 +9,8 @@ last_name: Liu
 # Is this the primary user of the site?
 superuser: true
 
+weight: 10
+
 # Role/position
 role: 首席教授，博士生导师，国家高层次人才
 
