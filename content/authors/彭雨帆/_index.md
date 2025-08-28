@@ -1,14 +1,14 @@
 ---
 # Display name
-title: 邱艺涵
+title: 彭雨帆
 
 # Full name (for SEO)
-first_name: Yihan
-last_name: Qiu
+first_name: Yufan
+last_name: Peng
 
 # Username (this should match the folder name)
 authors:
-  - 邱艺涵
+  - 彭雨帆
 
 # Is this the primary user of the site?
 superuser: false

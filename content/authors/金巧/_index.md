@@ -1,21 +1,21 @@
 ---
 # Display name
-title: 邱艺涵
+title: 金巧
 
 # Full name (for SEO)
-first_name: Yihan
-last_name: Qiu
+first_name: Qiao
+last_name: Jin
 
 # Username (this should match the folder name)
 authors:
-  - 邱艺涵
+  - 金巧
 
 # Is this the primary user of the site?
 superuser: false
 
-weight: 100
+weight: 120
 
-year: 2023
+year: 2024
 
 # Role/position
 role: 硕士生
