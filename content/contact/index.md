@@ -7,8 +7,8 @@ sections:
       title: 研究生招生
       text: |
         <br>
-        &emsp;&emsp;课题组长期招收硕士生、博士生，欢迎具有相关专业背景的同学报考。<br>
-
+        &emsp;&emsp;&emsp;&emsp;课题组长期招收硕士生、博士生，欢迎具有相关专业背景的同学报考。<br>
+        <br>
         - **招生专业：**<br>
           - 化学（学术型硕士/博士）
           - 材料科学与工程（学术型硕士/博士）
@@ -41,8 +41,8 @@ sections:
     content:
       title: 联系我们
       text: |
-        **E-mail**：liujp@whut.edu.cn；jialexia@whut.edu.cn<br>
-        **地  址**：武汉理工大学南湖校区化生大楼<br>
-        **邮政编码**：430070<br>
+        - **E-mail**：liujp@whut.edu.cn；jialexia@whut.edu.cn<br>
+        - **地  址**：武汉理工大学南湖校区化生大楼<br>
+        - **邮政编码**：430070<br>
 
 ---
