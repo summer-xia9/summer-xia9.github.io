@@ -1,14 +1,14 @@
 ---
 # Display name
-title: 刘文燚 
+title: 易成军
 
 # Full name (for SEO)
-first_name: Wenyi
-last_name: Liu
+first_name: Chengjun
+last_name: Yi
 
 # Username (this should match the folder name)
 authors:
-  - 刘文燚
+  - 易成军
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,7 +24,7 @@ role: 博士生
 organizations:
   - name: 武汉理工大学
     url: ''
-  - name: 材料科学与工程学院
+  - name: 化学化工与生命科学学院
 
 social:
   - icon: envelope
@@ -35,7 +35,7 @@ social:
     link: ''
   
 user_groups:
-  - Alumni
+  - Grad Students
 ---
 
 

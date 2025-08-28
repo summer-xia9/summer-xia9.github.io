@@ -1,14 +1,14 @@
 ---
 # Display name
-title: 刘文燚 
+title: 柴世波
 
 # Full name (for SEO)
-first_name: Wenyi
-last_name: Liu
+first_name: Shibo
+last_name: Chai
 
 # Username (this should match the folder name)
 authors:
-  - 刘文燚
+  - 柴世波
 
 # Is this the primary user of the site?
 superuser: false
@@ -35,7 +35,7 @@ social:
     link: ''
   
 user_groups:
-  - Alumni
+  - Grad Students
 ---
 
 

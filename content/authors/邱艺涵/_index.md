@@ -1,14 +1,14 @@
 ---
 # Display name
-title: 刘文燚 
+title: 邱艺涵
 
 # Full name (for SEO)
-first_name: Wenyi
-last_name: Liu
+first_name: Yihan
+last_name: Qiu
 
 # Username (this should match the folder name)
 authors:
-  - 刘文燚
+  - 邱艺涵
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,13 +18,13 @@ weight: 50
 year: 2019
 
 # Role/position
-role: 博士生
+role: 硕士生
 
 # Organizations/Affiliations
 organizations:
   - name: 武汉理工大学
     url: ''
-  - name: 材料科学与工程学院
+  - name: 化学化工与生命科学学院
 
 social:
   - icon: envelope
@@ -35,7 +35,7 @@ social:
     link: ''
   
 user_groups:
-  - Alumni
+  - Grad Students
 ---
 
 
