@@ -12,12 +12,12 @@ superuser: true
 weight: 10
 
 # Role/position
-role: 
-  - name: 首席教授，博士生导师
-  - name: 国家高层次青年人才
+role: 首席教授，博士生导师
+  
 
 # Organizations/Affiliations
 organizations:
+  - name: 国家高层次青年人才
   - name: 武汉理工大学
     url: ''
   - name: 化学化工与生命科学学院
