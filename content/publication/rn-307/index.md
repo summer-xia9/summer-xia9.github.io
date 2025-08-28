@@ -17,6 +17,6 @@ pages: 1908367
 publishDate: '2025-08-26T07:10:20.406237Z'
 publication_types:
 - article-journal
-publication: '*Advanced Functional Materials, 30*(9), 1908367'
+publication: '**_Advanced Functional Materials_**, *30* (9), 1908367'
 doi: 10.1002/adfm.201908367
 ---
