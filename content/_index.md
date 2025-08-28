@@ -40,11 +40,11 @@ sections:
     content:
       title: 最新研究进展
       text: ""
-      count: 5
+      count: 4
       filters:
         folders:
           - publication
-        publication_type: 'article-journal'
+        publication_type: article-journal
     design:
       view: compact
       columns: '1'
