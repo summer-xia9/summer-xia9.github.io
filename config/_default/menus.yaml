@@ -19,6 +19,9 @@ main:
   - name: 学术论文
     url: publication
     weight: 50
+  - name: 论文
+    url: papers
+    weight: 55
   - name: 招生指南
     url: contact
     weight: 60
