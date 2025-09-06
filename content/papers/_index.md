@@ -1,6 +1,11 @@
 ---
 type: landing
-title: Publications & Patents
+
+sections:
+  - block: markdown
+    content:
+      title: Publications & Patents
+
 
 ---
 
