@@ -1,0 +1,90 @@
+/* 1. 教师个人页的字体
+   按顺序使用访客电脑上可用的字体 */
+#profile-page {
+  --profile-font: "Helvetica Neue", Arial, "PingFang SC",
+                  "Microsoft YaHei", sans-serif;
+  font-family: var(--profile-font);
+}
+
+#profile-page h1,
+#profile-page h2,
+#profile-page h3,
+#profile-page .section-subheading {
+  font-family: var(--profile-font);
+}
+
+
+/* 2. 照片下方的教师姓名 */
+#profile-page .portrait-title h2 {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 1.4;
+}
+
+
+/* 3. 照片下方的职称、学校、学院 */
+#profile-page .portrait-title h3 {
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+  line-height: 1.6;
+}
+
+
+/* 4. 原有的个人简介正文 */
+#profile-page .col-lg-8 > .article-style {
+  font-size: 18px;
+  text-align: left;
+  line-height: 1.9;
+}
+
+
+/* 5. 原有的“研究方向”“教育经历”标题 */
+#profile-page .section-subheading {
+  font-size: 24px;
+  font-weight: 700;
+  text-align: left;
+  line-height: 1.5;
+  margin-bottom: 16px;
+}
+
+
+/* 6. 原有的研究方向列表 */
+#profile-page ul.ul-interests li {
+  font-size: 18px;
+  text-align: left;
+  line-height: 1.8;
+}
+
+
+/* 7. 原有的教育经历正文，包括专业、年份与学校 */
+#profile-page ul.ul-edu li .description p {
+  font-size: 18px;
+  text-align: left;
+  line-height: 1.8;
+}
+
+
+/* 8. 新增模块的标题：工作经历、荣誉与奖励、科研项目 */
+#profile-page .profile-extra > h2 {
+  font-size: 24px;
+  font-weight: 700;
+  text-align: left;
+  line-height: 1.5;
+  margin-bottom: 16px;
+}
+
+
+/* 9. 新增模块的正文 */
+#profile-page .profile-extra > .article-style {
+  font-size: 18px;
+  text-align: left;
+  line-height: 1.9;
+}
+
+
+/* 10. 新增模块中，各列表条目之间的间距 */
+#profile-page .profile-extra .article-style li {
+  margin-bottom: 12px;
+}
