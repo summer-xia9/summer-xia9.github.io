@@ -1,0 +1,49 @@
+{{- define "main" -}}
+
+{{ if not .File }}
+<div class="universal-wrapper pt-3">
+  <h1>{{ .Title }}</h1>
+</div>
+{{ end }}
+
+<section id="profile-page" class="pt-5">
+  <div class="container">
+
+    {{/* 原有的照片、简介、研究方向与教育经历 */}}
+    {{ if .File }}
+      {{ $username := path.Base .File.Dir }}
+      {{ $params := dict "wcPage" $ "wcBlock" . "author" $username }}
+      {{ partial "blocks/v1/about.html" $params }}
+    {{ end }}
+
+    {{/* 新增的工作经历、奖项、项目等模块 */}}
+    {{ range .Params.profile_sections }}
+      {{ if .content }}
+      <section class="my-5">
+        <h2>{{ .title }}</h2>
+        <div class="article-style">
+          {{ .content | markdownify }}
+        </div>
+      </section>
+      {{ end }}
+    {{ end }}
+
+    {{/* 保留原有的最新成果列表 */}}
+    {{ $query := where .Pages ".IsNode" false }}
+    {{ if len $query }}
+    <div class="article-widget content-widget-hr">
+      <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
+      <ul>
+        {{ range $query }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
+  </div>
+</section>
+
+{{- end -}}
