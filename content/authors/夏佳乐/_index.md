@@ -43,12 +43,6 @@ education:
       institution: 西安交通大学
       year: 2011-2015
 
-Work Experience:
-  courses:
-    - institution: 武汉理工大学 副教授
-      year: 2023-今
-    - institution: 马里兰大学-帕克分校 访问学者
-      year: 2019-2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -81,6 +75,32 @@ email: ''
 user_groups:
   - Researchers
 
+profile_sections:
+  - title: 工作经历 / Professional Experience
+    content: |
+      - **2023.06-2025.12｜武汉理工大学 化学化工与生命科学学院**  
+        特设副教授
+        
+      - **2026.01-今｜武汉理工大学 化学化工学院**  
+        特岗教授
+
+      - **2019—2022｜马里兰大学帕克分校**  
+        访问学者
+
+  - title: 荣誉与奖励 / Honors and Awards
+    content: |
+      - **2025｜湖北省“楚天学者”**  
+        授奖单位、奖励等级或个人排名。
+
+      - **2025｜武汉理工大学“15551”青年拔尖人才**  
+        授奖单位、奖励等级或个人排名。
+  
+  - title: 科研项目 / Research Projects
+    content: |
+      - **项目名称**  
+        项目来源：填写资助机构及项目类别。  
+        起止时间：填写项目执行时间。  
+        承担角色：主持或参与。
 
 #type: landing
 
