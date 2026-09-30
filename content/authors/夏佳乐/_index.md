@@ -29,20 +29,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include high-energy Secondary Batteries, advanced electrolytes and conversion-type cathode materials.
 
-interests:
-  - 高比能二次电池
-  - 新型电解液、电解质
-  - 转换型正极材料
-
-education:
-  courses:
-    - course: 材料科学与工程，工学博士
-      institution: 西安交通大学
-      year: 2015-2022
-    - course: 化学工程与工艺，工学学士
-      institution: 西安交通大学
-      year: 2011-2015
-
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -76,24 +62,37 @@ user_groups:
   - Researchers
 
 profile_sections:
+
+# 【栏目1】研究方向
+  - title: 研究方向 / Research Interests
+    content: |
+      - 高比能二次电池
+      - 新型电解液、电解质
+      - 转换型正极材料
+
+  # 【栏目2】教育经历
+  - title: 教育经历 / Education
+    content: |
+      - **2015—2022｜西安交通大学  材料科学与工程，工学博士**
+         
+      - **2011—2025｜西安交通大学  化学工程与工艺，工学学士**
+        
+
   - title: 工作经历 / Professional Experience
     content: |
-      - **2023.06-2025.12｜武汉理工大学 化学化工与生命科学学院**  
-        特设副教授
-        
-      - **2026.01-今｜武汉理工大学 化学化工学院**  
-        特岗教授
+      
+      - **2026-今｜武汉理工大学 化学化工学院  特岗教授**  
+         
+      - **2023-2025｜武汉理工大学 化学化工学院  特设副教授**  
 
-      - **2019—2022｜马里兰大学帕克分校**  
-        访问学者
+      - **2019—2022｜马里兰大学帕克分校  访问学者**  
+        
 
   - title: 荣誉与奖励 / Honors and Awards
     content: |
       - **2025｜湖北省“楚天学者”**  
-        授奖单位、奖励等级或个人排名。
-
+      
       - **2025｜武汉理工大学“15551”青年拔尖人才**  
-        授奖单位、奖励等级或个人排名。
   
   - title: 科研项目 / Research Projects
     content: |
