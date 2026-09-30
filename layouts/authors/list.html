@@ -19,7 +19,7 @@
     {{/* 新增的工作经历、奖项、项目等模块 */}}
     {{ range .Params.profile_sections }}
       {{ if .content }}
-      <section class="my-5">
+      <section class="my-5 profile-extra">
         <h2>{{ .title }}</h2>
         <div class="article-style">
           {{ .content | markdownify }}
